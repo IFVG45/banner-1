@@ -13,6 +13,7 @@ img{
   witdh:100%;
 
 }
+
 header{
   positon:relative;
   overflow:hidden;
@@ -26,6 +27,7 @@ h1{
   color:#000;
   text-align: center;
   width:100%;
+  transition:all 250ms linear;
 
 }
 
